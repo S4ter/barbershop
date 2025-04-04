@@ -2,6 +2,7 @@
 import Header from "./assets/Header";
 import Main from "./assets/Main";
 import Footer from "./assets/Footer";
+import Services from "./assets/Services";
 import "./App.css";
 
 function App() {
@@ -12,6 +13,9 @@ function App() {
       </section>
       <section id="Main">
         <Main />
+      </section>
+      <section id="Services">
+        <Services />
       </section>
       <section id="Footer">
         <Footer />
